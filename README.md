@@ -1,2 +1,2 @@
 # minions
-My first repository
+My first girlish GIT repository.
